@@ -3,7 +3,7 @@
 ### 🌈 I'm apart of the LGBTQ+ community and am Bisexual!
 ### 🌱 I'm currently learning Linux!
 ### 📫 How to reach me:
-### 📫 Email: kevin.diangelis@gmail.com
+### 📧 Email: kevin.diangelis@gmail.com
 ### ⚡ Discord: Cryptic#0001
 ### 🐦Twitter: ItsCryptic1
 <!--
