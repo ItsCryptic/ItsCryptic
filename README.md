@@ -1,9 +1,9 @@
 ### 👋 Hi there, I'm Kevin 
+### 😄 Pronouns: He/Him
 ### 🌱 I'm currently learning Linux and trying to become a system administrator!
 ### 📫 How to reach me:
 ### Email: kevin.diangelis@gmail.com
 ### Discord: Cryptic#0001
-### 😄 Pronouns: He/Him
 <!--
 **ItsCryptic/ItsCryptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
