@@ -1,5 +1,6 @@
 ### 👋 Hi there, I'm Kevin 
 ### 😄 Pronouns: He/Him
+### 🌈 I'm apart of the LGBTQ+ community and am Bisexual!
 ### 🌱 I'm currently learning Linux!
 ### 📫 How to reach me:
 ### 📫 Email: kevin.diangelis@gmail.com
