@@ -5,7 +5,7 @@
 ### 📫 How to reach me:
 ### 📧 Email: kevin.diangelis@gmail.com
 ### ⚡ Discord: Cryptic#0001
-### 🐦Twitter: ItsCryptic1
+### 🐦ItsCryptic1
 <!--
 **ItsCryptic/ItsCryptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
