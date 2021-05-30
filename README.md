@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Kevin 
-### 😄 Pronouns: He/Him
+### 😄 Pronouns: He/Any
 ### 🌈 I'm apart of the LGBTQ+ community and I am Bisexual!
 ### 🌱 I'm currently learning Linux!
 ### 📫 How to reach me:
