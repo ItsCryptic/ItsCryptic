@@ -1,11 +1,4 @@
-### 👋 Hi there, I'm Kevin 
-### 😄 Pronouns: He/Any
-### 🌈 I'm apart of the LGBTQ+ community and I am Bisexual!
-### 🌱 I'm currently learning Linux!
-### 📫 How to reach me:
-### 📧 Email: kevin.diangelis@gmail.com
-### ⚡ Discord: Cryptic#0001
-### 🐦@ItsCryptic1
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/202556225160871936)](https://discord.com/users/202556225160871936)
 <!--
 **ItsCryptic/ItsCryptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
