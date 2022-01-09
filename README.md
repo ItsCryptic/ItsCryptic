@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 
 🔥 Learning: **Go**
+🥰 Pronouns: **He/They**
