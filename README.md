@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔥 Learning: **Go**
+🔥 Learning: **Go** & **VimScript**
 
 🥰 Pronouns: **He/They**
