@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 🔥 Learning: **Go** & **VimScript**
 
 🥰 Pronouns: **He/They**
+
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsCryptic)](https://github.com/anuraghazra/github-readme-stats)
