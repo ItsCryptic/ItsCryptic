@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 🥰 Pronouns: **He/They**
 
+**Now, you may want some commit stats? Here you go!**
+
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsCryptic&theme=dark&show_icons=true&count_privat=true)](https://github.com/anuraghazra/github-readme-stats)
