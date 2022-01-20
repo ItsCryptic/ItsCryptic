@@ -18,4 +18,4 @@ I'm Kevin, better known as Cryptic or ItsCryptic on the internet and I go by **h
 
 💻 **What am I currently doing?**
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/202556225160871936)](https://discord.com/users/202556225160871936)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/202556225160871936)](https://dsc.bio/Cryptic)
