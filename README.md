@@ -7,7 +7,7 @@ I'm Kevin, better known as Cryptic or ItsCryptic on the internet and I go by **h
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsCryptic&theme=dracula&show_icons=true&count_privat=true)](https://github.com/ItsCryptic/)
 
 ---
-📍 **Some work that I'm proud of and or I have contributed a significant amount too**
+📍 **Some projects that I'm proud of and or I have contributed a significant amount too.**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=configs&theme=dracula)](https://github.com/ItsCryptic/configs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=portfolio&theme=dracula)](https://github.com/ItsCryptic/Portfolio)
