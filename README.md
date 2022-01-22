@@ -16,6 +16,7 @@ I'm Kevin, better known as Cryptic or ItsCryptic on the internet and I go by **h
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=teamx&theme=dracula)](https://github.com/ItsCryptic/teamx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=password-generator&theme=dracula)](https://github.com/ItsCryptic/password-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=httpserver&theme=dracula)](https://github.com/ItsCryptic/httpserver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=dmenu&theme=dracula)](https://github.com/ItsCryptic/dmenu)
 
 
 ---
