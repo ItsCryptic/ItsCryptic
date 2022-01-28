@@ -27,4 +27,4 @@ I'm Kevin, better known as Cryptic or ItsCryptic on the internet and I go by **h
 
 ---
 
-[Commit Snake](https://github.com/ItsCryptic/ItsCryptic/blob/output/github-contribution-grid-snake.svg)
+[![Commit Snake](https://github.com/ItsCryptic/ItsCryptic/blob/output/github-contribution-grid-snake.svg)
