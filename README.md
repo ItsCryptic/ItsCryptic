@@ -28,4 +28,3 @@ I'm Kevin, better known as Cryptic or ItsCryptic on the internet and I go by **h
 ---
 
 [![Commit Snake](https://github.com/ItsCryptic/ItsCryptic/blob/output/github-contribution-grid-snake.svg)](https://github.com/ItsCryptic)
-[![OSHA Certification](https://github.com/ItsCryptic/ItsCryptic/blob/main/certifications/osha.pdf)](https://campus.careersafeonline.com/badgeDetails.k2?badgeID=1)
