@@ -18,7 +18,7 @@ Currently helping [Disboard](https://disboard.org) with their new website.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=teamx&theme=dracula)](https://github.com/ItsCryptic/teamx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=password-generator&theme=dracula)](https://github.com/ItsCryptic/password-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=httpserver&theme=dracula)](https://github.com/ItsCryptic/httpserver)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=dmenu&theme=dracula)](https://github.com/ItsCryptic/dmenu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=dmenu&theme=dracula)](https://github.com/ItsCryptic/simple-coming-soon)
 
 
 ---
