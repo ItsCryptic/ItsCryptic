@@ -15,7 +15,7 @@ Currently helping [Disboard](https://disboard.org) with their new website.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=portfolio&theme=dracula)](https://github.com/ItsCryptic/Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=scripts&theme=dracula)](https://github.com/ItsCryptic/scripts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VibeMarket&repo=VibeUtils&theme=dracula)](https://github.com/VibeMarket/VibeUtils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=teamx&theme=dracula)](https://github.com/ItsCryptic/teamx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=Universe&theme=dracula)](https://github.com/ItsCryptic/Universe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=password-generator&theme=dracula)](https://github.com/ItsCryptic/password-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=httpserver&theme=dracula)](https://github.com/ItsCryptic/httpserver)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsCryptic&repo=simple-coming-soon&theme=dracula)](https://github.com/ItsCryptic/simple-coming-soon)
