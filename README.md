@@ -5,6 +5,7 @@ const kevin = {
    location = "Massachusetts, United States"
    projects = "too many"
    workplace = "Coding Instructor @ Code Ninjas"
+   school = "Johnson & Wales University"
    portfolio = "https://kevind.me"
    email = "hello@kevind.me"
 }
