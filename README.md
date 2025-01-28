@@ -4,7 +4,7 @@ const kevin = {
    description =  "Hi, I'm Kevin. I'm some developer from the United States."
    location = "Massachusetts, United States"
    projects = "too many"
-   workplace = "Coding Instructor @ Code Ninjas"
+   workplace = "N/A"
    portfolio = "https://kevind.me"
    email = "hello@kevind.me"
 }
